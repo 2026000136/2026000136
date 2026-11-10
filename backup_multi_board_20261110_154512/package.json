@@ -1,0 +1,17 @@
+{
+  "name": "department-board-portal",
+  "version": "1.0.0",
+  "description": "대학교 학과 구성원을 위한 다중 게시판 및 소통 포털 웹 서비스",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "board",
+    "university",
+    "department",
+    "community"
+  ],
+  "author": "",
+  "license": "ISC"
+}
